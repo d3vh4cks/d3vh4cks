@@ -9,7 +9,7 @@ this_is_me = {
     'Worldskills KR 2023 Cyber Security 4th place'
   ],
   'main_skill': 'reversing',
-  'language': ['Flask', 'NextJS', 'Spring'],
+  'language': ['Flask', 'NestJS', 'Spring'],
   'more...': 'https://ryugeonmo.xyz'
 }
 
